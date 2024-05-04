@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-04T16:39:30.677094</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 96.99 578.338125 
+L 1132.56 578.338125 
+L 1132.56 58.98 
+L 96.99 58.98 
+z
+" style="fill: #eaeaf2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- Работа -->
+      <g style="fill: #262626" transform="translate(196.018242 602.388125) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-420" d="M 493 0 
+L 493 4480 
+L 2336 4480 
+Q 3053 4480 3545 4048 
+Q 4038 3616 4038 2957 
+Q 4038 2323 3529 1875 
+Q 3021 1427 2336 1427 
+L 1005 1427 
+L 1005 0 
+L 493 0 
+z
+M 3526 2957 
+Q 3526 3405 3187 3702 
+Q 2848 4000 2336 4000 
+L 1005 4000 
+L 1005 1907 
+L 2336 1907 
+Q 2829 1907 3177 2211 
+Q 3526 2515 3526 2957 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-430" d="M 3578 0 
+L 3136 0 
+L 3072 659 
+Q 2880 301 2547 102 
+Q 2214 -96 1811 -96 
+Q 1152 -96 710 387 
+Q 269 870 269 1594 
+Q 269 2323 710 2809 
+Q 1152 3296 1811 3296 
+Q 2214 3296 2544 3097 
+Q 2874 2899 3066 2541 
+L 3136 3200 
+L 3578 3200 
+L 3578 0 
+z
+M 781 1600 
+Q 781 1069 1110 720 
+Q 1440 371 1946 371 
+Q 2438 371 2752 713 
+Q 3066 1056 3066 1600 
+Q 3066 2144 2752 2489 
+Q 2438 2835 1946 2835 
+Q 1434 2835 1107 2489 
+Q 781 2144 781 1600 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-431" d="M 275 1555 
+Q 275 2528 400 3033 
+Q 525 3539 826 3866 
+Q 1030 4090 1308 4198 
+Q 1587 4307 1836 4323 
+Q 2086 4339 2409 4444 
+Q 2733 4550 2995 4762 
+L 3226 4397 
+Q 2950 4166 2643 4054 
+Q 2336 3942 2115 3929 
+Q 1894 3917 1651 3830 
+Q 1408 3744 1242 3558 
+Q 902 3174 826 2394 
+Q 1018 2694 1328 2873 
+Q 1638 3053 2010 3053 
+Q 2650 3053 3075 2617 
+Q 3501 2182 3501 1555 
+Q 3501 813 3065 358 
+Q 2630 -96 1882 -96 
+Q 1152 -96 713 374 
+Q 275 845 275 1555 
+z
+M 1882 390 
+Q 2406 390 2697 716 
+Q 2989 1043 2989 1555 
+Q 2989 2003 2675 2316 
+Q 2362 2630 1882 2630 
+Q 1408 2630 1097 2310 
+Q 787 1990 787 1555 
+Q 787 1043 1075 716 
+Q 1363 390 1882 390 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-43e" d="M 275 1594 
+Q 275 2330 755 2813 
+Q 1235 3296 1958 3296 
+Q 2701 3296 3181 2822 
+Q 3661 2349 3661 1594 
+Q 3661 851 3181 377 
+Q 2701 -96 1958 -96 
+Q 1235 -96 755 387 
+Q 275 870 275 1594 
+z
+M 787 1600 
+Q 787 1082 1123 736 
+Q 1459 390 1958 390 
+Q 2490 390 2819 723 
+Q 3149 1056 3149 1600 
+Q 3149 2144 2819 2480 
+Q 2490 2816 1958 2816 
+Q 1453 2816 1120 2470 
+Q 787 2125 787 1600 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-442" d="M 1485 0 
+L 1485 2720 
+L 166 2720 
+L 166 3200 
+L 3322 3200 
+L 3322 2720 
+L 1997 2720 
+L 1997 0 
+L 1485 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-420"/>
+       <use xlink:href="#Actay-Regular-430" x="67.399994"/>
+       <use xlink:href="#Actay-Regular-431" x="130.899979"/>
+       <use xlink:href="#Actay-Regular-43e" x="189.699966"/>
+       <use xlink:href="#Actay-Regular-442" x="250.799957"/>
+       <use xlink:href="#Actay-Regular-430" x="305.199951"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- Декрет -->
+      <g style="fill: #262626" transform="translate(455.274258 602.388125) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-414" d="M 166 486 
+L 678 486 
+Q 1267 1536 1267 2758 
+L 1267 4480 
+L 3974 4480 
+L 3974 486 
+L 4570 486 
+L 4570 -1062 
+L 4058 -1062 
+L 4058 0 
+L 678 0 
+L 678 -1062 
+L 166 -1062 
+L 166 486 
+z
+M 1203 486 
+L 3462 486 
+L 3462 4000 
+L 1779 4000 
+L 1779 2758 
+Q 1779 1498 1203 486 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-435" d="M 3565 1453 
+L 794 1453 
+Q 838 954 1148 634 
+Q 1459 314 1914 314 
+Q 2592 314 2938 909 
+L 3462 909 
+Q 3264 442 2854 173 
+Q 2445 -96 1914 -96 
+Q 1210 -96 742 387 
+Q 275 870 275 1594 
+Q 275 2330 739 2813 
+Q 1203 3296 1914 3296 
+Q 2643 3296 3107 2822 
+Q 3571 2349 3571 1594 
+Q 3571 1574 3568 1526 
+Q 3565 1478 3565 1453 
+z
+M 794 1747 
+L 3053 1747 
+Q 3008 2253 2697 2563 
+Q 2387 2874 1914 2874 
+Q 1459 2874 1148 2560 
+Q 838 2246 794 1747 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-43a" d="M 1005 1357 
+L 1005 0 
+L 493 0 
+L 493 3200 
+L 1005 3200 
+L 1005 1830 
+L 1574 1830 
+L 2618 3200 
+L 3194 3200 
+L 1958 1600 
+L 3347 0 
+L 2746 0 
+L 1587 1357 
+L 1005 1357 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-440" d="M 499 3200 
+L 941 3200 
+L 1005 2566 
+Q 1210 2912 1539 3104 
+Q 1869 3296 2266 3296 
+Q 2918 3296 3353 2813 
+Q 3789 2330 3789 1606 
+Q 3789 870 3357 387 
+Q 2925 -96 2266 -96 
+Q 1869 -96 1539 96 
+Q 1210 288 1011 634 
+L 1011 -1280 
+L 499 -1280 
+L 499 3200 
+z
+M 2950 716 
+Q 3277 1062 3277 1600 
+Q 3277 2138 2950 2486 
+Q 2624 2835 2131 2835 
+Q 1632 2835 1321 2492 
+Q 1011 2150 1011 1600 
+Q 1011 1056 1324 713 
+Q 1638 371 2131 371 
+Q 2624 371 2950 716 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-414"/>
+       <use xlink:href="#Actay-Regular-435" x="73.899994"/>
+       <use xlink:href="#Actay-Regular-43a" x="133.999985"/>
+       <use xlink:href="#Actay-Regular-440" x="186.299973"/>
+       <use xlink:href="#Actay-Regular-435" x="249.799957"/>
+       <use xlink:href="#Actay-Regular-442" x="309.899948"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- Другой отпуск -->
+      <g style="fill: #262626" transform="translate(683.189297 602.388125) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-443" d="M 2016 -1261 
+L 1478 -1261 
+L 1914 0 
+L 1088 0 
+L 0 3200 
+L 525 3200 
+L 1440 531 
+L 2093 531 
+L 3008 3200 
+L 3526 3200 
+L 2016 -1261 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-433" d="M 493 3200 
+L 2938 3200 
+L 2938 2739 
+L 1005 2739 
+L 1005 0 
+L 493 0 
+L 493 3200 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-439" d="M 2099 3590 
+Q 1658 3590 1331 3840 
+Q 1005 4090 1005 4480 
+L 1414 4480 
+Q 1414 4256 1612 4093 
+Q 1811 3930 2099 3930 
+Q 2387 3930 2585 4090 
+Q 2784 4250 2784 4480 
+L 3187 4480 
+Q 3187 4109 2876 3849 
+Q 2566 3590 2099 3590 
+z
+M 3680 0 
+L 3168 0 
+L 3168 2413 
+L 922 0 
+L 493 0 
+L 493 3200 
+L 1005 3200 
+L 1005 800 
+L 3258 3200 
+L 3680 3200 
+L 3680 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-20" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-43f" d="M 493 3200 
+L 3603 3200 
+L 3603 0 
+L 3091 0 
+L 3091 2720 
+L 1005 2720 
+L 1005 0 
+L 493 0 
+L 493 3200 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-441" d="M 1116 2483 
+Q 787 2131 787 1600 
+Q 787 1069 1116 720 
+Q 1446 371 1952 371 
+Q 2349 371 2646 576 
+Q 2944 781 3072 1126 
+L 3603 1126 
+Q 3443 570 3001 237 
+Q 2560 -96 1952 -96 
+Q 1235 -96 755 387 
+Q 275 870 275 1594 
+Q 275 2330 752 2813 
+Q 1229 3296 1952 3296 
+Q 2554 3296 2995 2966 
+Q 3437 2637 3597 2080 
+L 3066 2080 
+Q 2931 2419 2633 2627 
+Q 2336 2835 1952 2835 
+Q 1446 2835 1116 2483 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-414"/>
+       <use xlink:href="#Actay-Regular-440" x="73.899994"/>
+       <use xlink:href="#Actay-Regular-443" x="137.399979"/>
+       <use xlink:href="#Actay-Regular-433" x="192.699966"/>
+       <use xlink:href="#Actay-Regular-43e" x="242.699951"/>
+       <use xlink:href="#Actay-Regular-439" x="303.799942"/>
+       <use xlink:href="#Actay-Regular-20" x="368.899933"/>
+       <use xlink:href="#Actay-Regular-43e" x="393.899918"/>
+       <use xlink:href="#Actay-Regular-442" x="454.999908"/>
+       <use xlink:href="#Actay-Regular-43f" x="509.399902"/>
+       <use xlink:href="#Actay-Regular-443" x="571.899887"/>
+       <use xlink:href="#Actay-Regular-441" x="627.199875"/>
+       <use xlink:href="#Actay-Regular-43a" x="687.499863"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- Нет работы -->
+      <g style="fill: #262626" transform="translate(953.853516 603.115156) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-41d" d="M 493 0 
+L 493 4480 
+L 1005 4480 
+L 1005 2490 
+L 3661 2490 
+L 3661 4480 
+L 4173 4480 
+L 4173 0 
+L 3661 0 
+L 3661 1997 
+L 1005 1997 
+L 1005 0 
+L 493 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Actay-Regular-44b" d="M 493 3200 
+L 1005 3200 
+L 1005 2342 
+L 2074 2342 
+Q 2797 2342 3219 2025 
+Q 3642 1709 3642 1171 
+Q 3642 608 3235 304 
+Q 2829 0 2074 0 
+L 493 0 
+L 493 3200 
+z
+M 4326 3200 
+L 4838 3200 
+L 4838 0 
+L 4326 0 
+L 4326 3200 
+z
+M 3130 1171 
+Q 3130 1523 2845 1724 
+Q 2560 1926 2074 1926 
+L 1005 1926 
+L 1005 410 
+L 2074 410 
+Q 2579 410 2854 608 
+Q 3130 806 3130 1171 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-41d"/>
+       <use xlink:href="#Actay-Regular-435" x="72.999985"/>
+       <use xlink:href="#Actay-Regular-442" x="133.099976"/>
+       <use xlink:href="#Actay-Regular-20" x="187.499969"/>
+       <use xlink:href="#Actay-Regular-440" x="212.499954"/>
+       <use xlink:href="#Actay-Regular-430" x="275.999939"/>
+       <use xlink:href="#Actay-Regular-431" x="339.499924"/>
+       <use xlink:href="#Actay-Regular-43e" x="398.299911"/>
+       <use xlink:href="#Actay-Regular-442" x="459.399902"/>
+       <use xlink:href="#Actay-Regular-44b" x="513.799896"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- Вид занятости -->
+     <g style="fill: #262626" transform="translate(546.186563 623.015156) scale(0.18 -0.18)">
+      <defs>
+       <path id="Actay-Regular-412" d="M 493 0 
+L 493 4480 
+L 2330 4480 
+Q 3027 4480 3456 4163 
+Q 3885 3846 3885 3322 
+Q 3885 2970 3654 2698 
+Q 3424 2426 3034 2285 
+Q 3533 2170 3811 1888 
+Q 4090 1606 4090 1203 
+Q 4090 672 3594 336 
+Q 3098 0 2330 0 
+L 493 0 
+z
+M 3392 3264 
+Q 3392 3603 3097 3820 
+Q 2803 4038 2330 4038 
+L 1005 4038 
+L 1005 2483 
+L 2330 2483 
+Q 2771 2483 3081 2710 
+Q 3392 2938 3392 3264 
+z
+M 3225 672 
+Q 3571 896 3571 1261 
+Q 3571 1626 3238 1837 
+Q 2906 2048 2330 2048 
+L 1005 2048 
+L 1005 448 
+L 2330 448 
+Q 2880 448 3225 672 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-438" d="M 3680 0 
+L 3168 0 
+L 3168 2413 
+L 922 0 
+L 493 0 
+L 493 3200 
+L 1005 3200 
+L 1005 800 
+L 3258 3200 
+L 3680 3200 
+L 3680 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-434" d="M 275 448 
+L 755 448 
+Q 1120 1139 1120 1997 
+L 1120 3200 
+L 3603 3200 
+L 3603 448 
+L 4205 448 
+L 4205 -832 
+L 3718 -832 
+L 3718 0 
+L 749 0 
+L 749 -832 
+L 275 -832 
+L 275 448 
+z
+M 1254 448 
+L 3123 448 
+L 3123 2758 
+L 1600 2758 
+L 1600 1997 
+Q 1600 1133 1254 448 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-437" d="M 1830 -96 
+Q 1229 -96 829 230 
+Q 429 557 429 1075 
+L 902 1075 
+Q 902 723 1168 508 
+Q 1434 294 1830 294 
+Q 2240 294 2493 457 
+Q 2746 621 2746 889 
+Q 2746 1158 2483 1321 
+Q 2221 1485 1786 1485 
+L 1453 1485 
+L 1453 1805 
+L 1786 1805 
+Q 2234 1805 2445 1936 
+Q 2656 2067 2656 2355 
+Q 2656 2611 2432 2755 
+Q 2208 2899 1818 2899 
+Q 1466 2899 1229 2697 
+Q 992 2496 992 2202 
+L 518 2202 
+Q 518 2656 892 2966 
+Q 1267 3277 1811 3277 
+Q 2419 3277 2784 3037 
+Q 3149 2797 3149 2406 
+Q 3149 1843 2579 1651 
+Q 3238 1421 3238 838 
+Q 3238 422 2848 163 
+Q 2458 -96 1830 -96 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-43d" d="M 493 0 
+L 493 3200 
+L 1005 3200 
+L 1005 1850 
+L 3206 1850 
+L 3206 3200 
+L 3718 3200 
+L 3718 0 
+L 3206 0 
+L 3206 1357 
+L 1005 1357 
+L 1005 0 
+L 493 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-44f" d="M 589 0 
+L 0 0 
+L 928 1062 
+Q 550 1190 332 1456 
+Q 115 1722 115 2086 
+Q 115 2592 528 2896 
+Q 941 3200 1594 3200 
+L 2957 3200 
+L 2957 0 
+L 2483 0 
+L 2483 960 
+L 1594 960 
+Q 1517 960 1376 973 
+L 589 0 
+z
+M 608 2086 
+Q 608 1754 870 1565 
+Q 1133 1376 1594 1376 
+L 2483 1376 
+L 2483 2778 
+L 1594 2778 
+Q 1139 2778 873 2592 
+Q 608 2406 608 2086 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Actay-Regular-412"/>
+      <use xlink:href="#Actay-Regular-438" x="67.999985"/>
+      <use xlink:href="#Actay-Regular-434" x="133.099976"/>
+      <use xlink:href="#Actay-Regular-20" x="202.999969"/>
+      <use xlink:href="#Actay-Regular-437" x="227.999954"/>
+      <use xlink:href="#Actay-Regular-430" x="283.699951"/>
+      <use xlink:href="#Actay-Regular-43d" x="347.199936"/>
+      <use xlink:href="#Actay-Regular-44f" x="412.799927"/>
+      <use xlink:href="#Actay-Regular-442" x="466.799911"/>
+      <use xlink:href="#Actay-Regular-43e" x="521.199905"/>
+      <use xlink:href="#Actay-Regular-441" x="582.299896"/>
+      <use xlink:href="#Actay-Regular-442" x="642.599884"/>
+      <use xlink:href="#Actay-Regular-438" x="696.999878"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 96.99 578.338125 
+L 1132.56 578.338125 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_6">
+      <!-- 0 -->
+      <g style="fill: #262626" transform="translate(73.435 584.113125) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-30" d="M 275 2234 
+Q 275 3245 803 3910 
+Q 1331 4576 2144 4576 
+Q 2963 4576 3494 3923 
+Q 4026 3270 4026 2234 
+Q 4026 1210 3494 557 
+Q 2963 -96 2144 -96 
+Q 1338 -96 806 569 
+Q 275 1235 275 2234 
+z
+M 787 2240 
+Q 787 1440 1171 915 
+Q 1555 390 2150 390 
+Q 2746 390 3130 912 
+Q 3514 1434 3514 2240 
+Q 3514 3053 3133 3571 
+Q 2752 4090 2150 4090 
+Q 1549 4090 1168 3568 
+Q 787 3046 787 2240 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 96.99 499.863306 
+L 1132.56 499.863306 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_7">
+      <!-- 1000 -->
+      <g style="fill: #262626" transform="translate(45.103984 505.638306) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-31" d="M 230 3539 
+L 230 4038 
+Q 941 4058 1491 4480 
+L 1914 4480 
+L 1914 0 
+L 1402 0 
+L 1402 3821 
+Q 928 3558 230 3539 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-31"/>
+       <use xlink:href="#Actay-Regular-30" x="37.699997"/>
+       <use xlink:href="#Actay-Regular-30" x="104.699982"/>
+       <use xlink:href="#Actay-Regular-30" x="171.699966"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 96.99 421.388487 
+L 1132.56 421.388487 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_8">
+      <!-- 2000 -->
+      <g style="fill: #262626" transform="translate(41.211016 427.163487) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-32" d="M 1971 4576 
+Q 2637 4576 3033 4211 
+Q 3430 3846 3430 3200 
+Q 3430 2867 3299 2633 
+Q 3168 2400 2957 2262 
+Q 2746 2125 2486 2019 
+Q 2227 1914 1968 1802 
+Q 1709 1690 1491 1542 
+Q 1274 1395 1130 1132 
+Q 986 870 973 512 
+L 3488 512 
+L 3488 0 
+L 429 0 
+L 429 339 
+Q 429 806 566 1145 
+Q 704 1485 925 1670 
+Q 1146 1856 1411 1990 
+Q 1677 2125 1939 2224 
+Q 2202 2323 2422 2435 
+Q 2643 2547 2780 2745 
+Q 2918 2944 2918 3226 
+Q 2918 3629 2659 3859 
+Q 2400 4090 1971 4090 
+Q 1485 4090 1213 3776 
+Q 941 3462 941 2874 
+L 429 2874 
+Q 429 3667 848 4121 
+Q 1267 4576 1971 4576 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-32"/>
+       <use xlink:href="#Actay-Regular-30" x="61.299988"/>
+       <use xlink:href="#Actay-Regular-30" x="128.299973"/>
+       <use xlink:href="#Actay-Regular-30" x="195.299957"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 96.99 342.913667 
+L 1132.56 342.913667 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_9">
+      <!-- 3000 -->
+      <g style="fill: #262626" transform="translate(40.997031 348.688667) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-33" d="M 2739 3968 
+L 672 3968 
+L 672 4480 
+L 3450 4480 
+L 3450 4051 
+L 2157 2656 
+L 2208 2656 
+Q 2822 2656 3228 2317 
+Q 3635 1978 3635 1325 
+Q 3635 717 3200 310 
+Q 2765 -96 2106 -96 
+Q 1402 -96 915 413 
+Q 429 922 429 1664 
+L 941 1664 
+Q 941 1120 1270 755 
+Q 1600 390 2093 390 
+Q 2534 390 2828 656 
+Q 3123 922 3123 1318 
+Q 3123 1734 2844 1993 
+Q 2566 2253 2106 2253 
+L 1779 2253 
+L 1504 2566 
+L 2739 3968 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-33"/>
+       <use xlink:href="#Actay-Regular-30" x="62.599991"/>
+       <use xlink:href="#Actay-Regular-30" x="129.599976"/>
+       <use xlink:href="#Actay-Regular-30" x="196.59996"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 96.99 264.438848 
+L 1132.56 264.438848 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_10">
+      <!-- 4000 -->
+      <g style="fill: #262626" transform="translate(40.202969 270.213848) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-34" d="M 429 998 
+L 429 1421 
+L 2784 4480 
+L 2835 4474 
+L 2835 4480 
+L 3347 4480 
+L 3347 1510 
+L 3968 1510 
+L 3968 998 
+L 3347 998 
+L 3347 0 
+L 2835 0 
+L 2835 998 
+L 429 998 
+z
+M 1069 1510 
+L 2835 1510 
+L 2835 3885 
+L 1069 1510 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-34"/>
+       <use xlink:href="#Actay-Regular-30" x="67.399994"/>
+       <use xlink:href="#Actay-Regular-30" x="134.399979"/>
+       <use xlink:href="#Actay-Regular-30" x="201.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <path d="M 96.99 185.964029 
+L 1132.56 185.964029 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_11">
+      <!-- 5000 -->
+      <g style="fill: #262626" transform="translate(40.862969 191.739029) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-35" d="M 2086 -96 
+Q 1395 -96 912 406 
+Q 429 909 429 1638 
+L 941 1638 
+Q 941 1094 1267 742 
+Q 1594 390 2086 390 
+Q 2541 390 2825 662 
+Q 3110 934 3110 1370 
+Q 3110 1818 2803 2077 
+Q 2496 2336 1971 2336 
+L 870 2336 
+L 634 2605 
+L 736 4480 
+L 3277 4480 
+L 3277 3968 
+L 1184 3968 
+L 1120 2746 
+L 2022 2746 
+Q 2758 2746 3190 2371 
+Q 3622 1997 3622 1370 
+Q 3622 736 3187 320 
+Q 2752 -96 2086 -96 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-35"/>
+       <use xlink:href="#Actay-Regular-30" x="63.399994"/>
+       <use xlink:href="#Actay-Regular-30" x="130.399979"/>
+       <use xlink:href="#Actay-Regular-30" x="197.399963"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <path d="M 96.99 107.48921 
+L 1132.56 107.48921 
+" clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_12">
+      <!-- 6000 -->
+      <g style="fill: #262626" transform="translate(41.244531 113.26421) scale(0.165 -0.165)">
+       <defs>
+        <path id="Actay-Regular-36" d="M 275 1517 
+Q 275 2042 634 2554 
+L 2010 4480 
+L 2618 4480 
+L 1651 3110 
+Q 1779 3136 1958 3136 
+Q 2688 3136 3161 2681 
+Q 3635 2227 3635 1516 
+Q 3635 806 3161 355 
+Q 2688 -96 1958 -96 
+Q 1229 -96 752 361 
+Q 275 819 275 1517 
+z
+M 787 1517 
+Q 787 1030 1120 710 
+Q 1453 390 1958 390 
+Q 2477 390 2800 704 
+Q 3123 1018 3123 1517 
+Q 3123 2016 2796 2333 
+Q 2470 2650 1958 2650 
+Q 1453 2650 1120 2330 
+Q 787 2010 787 1517 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Actay-Regular-36"/>
+       <use xlink:href="#Actay-Regular-30" x="61.099991"/>
+       <use xlink:href="#Actay-Regular-30" x="128.099976"/>
+       <use xlink:href="#Actay-Regular-30" x="195.09996"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_13">
+     <!-- Количество ответов -->
+     <g style="fill: #262626" transform="translate(32.602969 412.6275) rotate(-90) scale(0.18 -0.18)">
+      <defs>
+       <path id="Actay-Regular-41a" d="M 1005 2010 
+L 1005 0 
+L 493 0 
+L 493 4480 
+L 1005 4480 
+L 1005 2470 
+L 1734 2470 
+L 3322 4480 
+L 3936 4480 
+L 2144 2240 
+L 4109 0 
+L 3475 0 
+L 1728 2010 
+L 1005 2010 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-43b" d="M 986 1338 
+L 1235 3200 
+L 3942 3200 
+L 3942 0 
+L 3430 0 
+L 3430 2720 
+L 1683 2720 
+L 1498 1299 
+Q 1414 538 1132 221 
+Q 851 -96 275 -96 
+L 275 371 
+Q 602 371 758 588 
+Q 915 806 986 1338 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-447" d="M 2970 2432 
+L 2970 3200 
+L 3482 3200 
+L 3482 0 
+L 2970 0 
+L 2970 1408 
+Q 2586 749 1869 749 
+Q 1254 749 873 1209 
+Q 493 1670 493 2432 
+L 493 3200 
+L 1005 3200 
+L 1005 2432 
+Q 1005 1894 1277 1561 
+Q 1549 1229 1990 1229 
+Q 2419 1229 2694 1565 
+Q 2970 1901 2970 2432 
+z
+" transform="scale(0.015625)"/>
+       <path id="Actay-Regular-432" d="M 493 0 
+L 493 3200 
+L 2016 3200 
+Q 2554 3200 2883 2973 
+Q 3213 2746 3213 2381 
+Q 3213 2131 3037 1932 
+Q 2861 1734 2566 1632 
+Q 2938 1549 3149 1350 
+Q 3360 1152 3360 864 
+Q 3360 480 2989 240 
+Q 2618 0 2016 0 
+L 493 0 
+z
+M 2752 2323 
+Q 2752 2560 2550 2697 
+Q 2349 2835 2016 2835 
+L 966 2835 
+L 966 1792 
+L 2016 1792 
+Q 2323 1792 2537 1945 
+Q 2752 2099 2752 2323 
+z
+M 2886 902 
+Q 2886 1152 2652 1299 
+Q 2419 1446 2016 1446 
+L 966 1446 
+L 966 371 
+L 2016 371 
+Q 2413 371 2649 515 
+Q 2886 659 2886 902 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Actay-Regular-41a"/>
+      <use xlink:href="#Actay-Regular-43e" x="64.199997"/>
+      <use xlink:href="#Actay-Regular-43b" x="125.299988"/>
+      <use xlink:href="#Actay-Regular-438" x="194.699982"/>
+      <use xlink:href="#Actay-Regular-447" x="259.799973"/>
+      <use xlink:href="#Actay-Regular-435" x="321.999969"/>
+      <use xlink:href="#Actay-Regular-441" x="382.09996"/>
+      <use xlink:href="#Actay-Regular-442" x="442.399948"/>
+      <use xlink:href="#Actay-Regular-432" x="496.799942"/>
+      <use xlink:href="#Actay-Regular-43e" x="553.499939"/>
+      <use xlink:href="#Actay-Regular-20" x="614.59993"/>
+      <use xlink:href="#Actay-Regular-43e" x="639.599915"/>
+      <use xlink:href="#Actay-Regular-442" x="700.699905"/>
+      <use xlink:href="#Actay-Regular-432" x="755.099899"/>
+      <use xlink:href="#Actay-Regular-435" x="811.799896"/>
+      <use xlink:href="#Actay-Regular-442" x="871.899887"/>
+      <use xlink:href="#Actay-Regular-43e" x="926.299881"/>
+      <use xlink:href="#Actay-Regular-432" x="987.399872"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 122.87925 578.338125 
+L 329.99325 578.338125 
+L 329.99325 83.711339 
+L 122.87925 83.711339 
+z
+" clip-path="url(#pc0402ffbde)" style="fill: #6584ad; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 381.77175 578.338125 
+L 588.88575 578.338125 
+L 588.88575 565.625204 
+L 381.77175 565.625204 
+z
+" clip-path="url(#pc0402ffbde)" style="fill: #556c8c; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 640.66425 578.338125 
+L 847.77825 578.338125 
+L 847.77825 573.001837 
+L 640.66425 573.001837 
+z
+" clip-path="url(#pc0402ffbde)" style="fill: #45556b; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 899.55675 578.338125 
+L 1106.67075 578.338125 
+L 1106.67075 158.419367 
+L 899.55675 158.419367 
+z
+" clip-path="url(#pc0402ffbde)" style="fill: #353d4a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#pc0402ffbde)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 96.99 578.338125 
+L 96.99 58.98 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 1132.56 578.338125 
+L 1132.56 58.98 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 96.99 578.338125 
+L 1132.56 578.338125 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 96.99 58.98 
+L 1132.56 58.98 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_14">
+   <!-- Распределение основных занятий респондентов в 2020 г. -->
+   <g style="fill: #262626" transform="translate(249.082313 28.404) scale(0.216 -0.216)">
+    <defs>
+     <path id="Actay-Regular-445" d="M 1894 1619 
+L 3181 0 
+L 2573 0 
+L 1594 1235 
+L 614 0 
+L 0 0 
+L 1286 1619 
+L 26 3200 
+L 640 3200 
+L 1594 2003 
+L 2541 3200 
+L 3149 3200 
+L 1894 1619 
+z
+" transform="scale(0.015625)"/>
+     <path id="Actay-Regular-2e" d="M 275 230 
+Q 275 371 361 457 
+Q 448 544 589 544 
+Q 742 544 832 457 
+Q 922 371 922 230 
+Q 922 77 832 -9 
+Q 742 -96 589 -96 
+Q 448 -96 361 -9 
+Q 275 77 275 230 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Actay-Regular-420"/>
+    <use xlink:href="#Actay-Regular-430" x="67.399994"/>
+    <use xlink:href="#Actay-Regular-441" x="130.899979"/>
+    <use xlink:href="#Actay-Regular-43f" x="191.199966"/>
+    <use xlink:href="#Actay-Regular-440" x="253.699951"/>
+    <use xlink:href="#Actay-Regular-435" x="317.199936"/>
+    <use xlink:href="#Actay-Regular-434" x="377.299927"/>
+    <use xlink:href="#Actay-Regular-435" x="447.199921"/>
+    <use xlink:href="#Actay-Regular-43b" x="507.299911"/>
+    <use xlink:href="#Actay-Regular-435" x="576.699905"/>
+    <use xlink:href="#Actay-Regular-43d" x="636.799896"/>
+    <use xlink:href="#Actay-Regular-438" x="702.399887"/>
+    <use xlink:href="#Actay-Regular-435" x="767.499878"/>
+    <use xlink:href="#Actay-Regular-20" x="827.599869"/>
+    <use xlink:href="#Actay-Regular-43e" x="852.599854"/>
+    <use xlink:href="#Actay-Regular-441" x="913.699844"/>
+    <use xlink:href="#Actay-Regular-43d" x="973.999832"/>
+    <use xlink:href="#Actay-Regular-43e" x="1039.599823"/>
+    <use xlink:href="#Actay-Regular-432" x="1100.699814"/>
+    <use xlink:href="#Actay-Regular-43d" x="1157.399811"/>
+    <use xlink:href="#Actay-Regular-44b" x="1222.999802"/>
+    <use xlink:href="#Actay-Regular-445" x="1306.299789"/>
+    <use xlink:href="#Actay-Regular-20" x="1355.999786"/>
+    <use xlink:href="#Actay-Regular-437" x="1380.999771"/>
+    <use xlink:href="#Actay-Regular-430" x="1436.699768"/>
+    <use xlink:href="#Actay-Regular-43d" x="1500.199753"/>
+    <use xlink:href="#Actay-Regular-44f" x="1565.799744"/>
+    <use xlink:href="#Actay-Regular-442" x="1619.799728"/>
+    <use xlink:href="#Actay-Regular-438" x="1674.199722"/>
+    <use xlink:href="#Actay-Regular-439" x="1739.299713"/>
+    <use xlink:href="#Actay-Regular-20" x="1804.399704"/>
+    <use xlink:href="#Actay-Regular-440" x="1829.399689"/>
+    <use xlink:href="#Actay-Regular-435" x="1892.899673"/>
+    <use xlink:href="#Actay-Regular-441" x="1952.999664"/>
+    <use xlink:href="#Actay-Regular-43f" x="2013.299652"/>
+    <use xlink:href="#Actay-Regular-43e" x="2075.799637"/>
+    <use xlink:href="#Actay-Regular-43d" x="2136.899628"/>
+    <use xlink:href="#Actay-Regular-434" x="2202.499619"/>
+    <use xlink:href="#Actay-Regular-435" x="2272.399612"/>
+    <use xlink:href="#Actay-Regular-43d" x="2332.499603"/>
+    <use xlink:href="#Actay-Regular-442" x="2398.099594"/>
+    <use xlink:href="#Actay-Regular-43e" x="2452.499588"/>
+    <use xlink:href="#Actay-Regular-432" x="2513.599579"/>
+    <use xlink:href="#Actay-Regular-20" x="2570.299576"/>
+    <use xlink:href="#Actay-Regular-432" x="2595.299561"/>
+    <use xlink:href="#Actay-Regular-20" x="2651.999557"/>
+    <use xlink:href="#Actay-Regular-32" x="2676.999542"/>
+    <use xlink:href="#Actay-Regular-30" x="2738.29953"/>
+    <use xlink:href="#Actay-Regular-32" x="2805.299515"/>
+    <use xlink:href="#Actay-Regular-30" x="2866.599503"/>
+    <use xlink:href="#Actay-Regular-20" x="2933.599487"/>
+    <use xlink:href="#Actay-Regular-433" x="2958.599472"/>
+    <use xlink:href="#Actay-Regular-2e" x="3008.599457"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc0402ffbde">
+   <rect x="96.99" y="58.98" width="1035.57" height="519.358125"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,6 @@
+PWD /Users/german/Library/CloudStorage/GoogleDrive-germanivanov0719@gmail.com/My Drive/DANO 2023/German/Bank/LaTeX
+INPUT /usr/local/texlive/2023basic/texmf.cnf
+INPUT /usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/german/Library/CloudStorage/GoogleDrive-germanivanov0719@gmail.com/My Drive/DANO 2023/German/Bank/LaTeX/Untitled-3.tex
+OUTPUT Untitled-3.log
